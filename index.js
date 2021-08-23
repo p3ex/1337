@@ -12,6 +12,4 @@ para.style.color = nColor;
 let nSize = prompt ('Enter a size of paragraph');
 para.style.fontSize = nSize+'px';
 */
-//let name = prompt ("Enter your name");
-//alert (`hello ${name}`);
 
