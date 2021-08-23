@@ -13,3 +13,4 @@ let nSize = prompt ('Enter a size of paragraph');
 para.style.fontSize = nSize+'px';
 */
 
+console.log("test");
